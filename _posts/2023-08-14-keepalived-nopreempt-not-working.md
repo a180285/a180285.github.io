@@ -1,4 +1,4 @@
-# keepalived nopreempt not working
+# keepalived nopreempt 不生效
 
 ## Keepalived 简介
 
